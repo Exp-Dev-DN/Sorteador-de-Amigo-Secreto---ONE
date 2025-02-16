@@ -23,4 +23,5 @@ Este projeto permite que os usuários adicionem nomes a uma lista e sorteiem um 
 
 1. Clone este repositório:
 
-   git clone https://github.com/Exp-Dev-DN/Sorteador-de-Amigo-Secreto---ONE.git
+   1. git clone https://github.com/Exp-Dev-DN/Sorteador-de-Amigo-Secreto---ONE.git
+   2. Abra index.html no seu navegador.
